@@ -43,9 +43,21 @@ interest formulas can be found at: https://byjus.com/interest-formula/
 
 # **JavaScript Arrays and Strings **
 1. Write function to remove elements which are formed by same characters.  
-e.g. input array ["1357", "7531", "2480", "0428", "1234", "2345", "3456"]  
+e.g. input array ["1357", "7531", "2480", "0428", "1234", "2345", "3456"]
+
 // output array ["1357", "2480", "1234", "2345", "3456"]   
 
-2. Write function implementation to read data from files using promises.  
+# **JavaScript JSON and Regex **
+1. Read multipe usernames and passwords from Json File  
+e.g. Json  
+{  
+"testData":[{"username":"user1","password":"pwd1"},{"username":"user2","password":"pwd2"}],  
+"envURL:"www.google.com"  
+}  
+
+Write a function to validate whether given string is a valid email id or not.  
+rules for valid email can be referrd at : https://help.returnpath.com/hc/en-us/articles/220560587-What-are-the-rules-for-email-address-syntax-  
+
+3. Write function implementation to read data from files using promises.  
 Resolve promise if reading data from file is successful and reject if it’s a failure  
 Handle failures using catch and finally of promises.  
