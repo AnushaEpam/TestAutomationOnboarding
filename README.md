@@ -55,9 +55,7 @@ e.g. Json
 "envURL:"www.google.com"  
 }  
 
-Write a function to validate whether given string is a valid email id or not.  
+2. Write a function to validate whether given string is a valid email id or not.  
 rules for valid email can be referrd at : https://help.returnpath.com/hc/en-us/articles/220560587-What-are-the-rules-for-email-address-syntax-  
 
-3. Write function implementation to read data from files using promises.  
-Resolve promise if reading data from file is successful and reject if it’s a failure  
-Handle failures using catch and finally of promises.  
+
