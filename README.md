@@ -39,5 +39,13 @@ also write function to return all the employee ids and sum of total salaries.
 2. Implement add, subtract, multiply, divide and other calculation methods in "calculator" class and use them in a different class "interest calculator"   
 calculate total amount to be paid after calculating the interest based on the number of months.  
 if number of months is less than 12, calculate simple interest at 6% and if number of months greater than 12 then calculate compound interest at 5.5%  
-interest formulas can be found at: https://byjus.com/interest-formula/  
+interest formulas can be found at: https://byjus.com/interest-formula/
 
+# **JavaScript Arrays and Strings **
+1. Write function to remove elements which are formed by same characters.  
+e.g. input array ["1357", "7531", "2480", "0428", "1234", "2345", "3456"]  
+// output array ["1357", "2480", "1234", "2345", "3456"]   
+
+2. Write function implementation to read data from files using promises.  
+Resolve promise if reading data from file is successful and reject if it’s a failure  
+Handle failures using catch and finally of promises.  
