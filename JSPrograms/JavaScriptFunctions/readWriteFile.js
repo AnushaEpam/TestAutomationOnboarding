@@ -33,7 +33,6 @@ async function appendFile(filePath, data) {
         console.error('Failed to append file:', error);
     }
 }
-
 const filePath = "C:/GitRepository/JSPrograms/JavaScriptFunctions/testFile.txt"
 const data = " write to the text file"
 const appendData = " new line to append to text file"
